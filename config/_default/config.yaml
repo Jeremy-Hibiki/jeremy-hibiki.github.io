@@ -1,0 +1,7 @@
+baseURL: http://blog.jeremy-hibiki.xyz/
+languageCode: zh-cn
+defaultContentLanguage: zh-cn
+hasCJKLanguage: true
+
+title: HiBiKi Blog
+theme: stack
